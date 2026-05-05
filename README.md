@@ -76,7 +76,7 @@ All data, identifiers, and system details have been anonymized. This project is 
    pip install -r requirements.txt
 
 4. Run the script:
-   python main.py
+   python data-extraction-automation-product.py
 
 ---
 
