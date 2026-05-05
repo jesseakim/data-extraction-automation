@@ -61,3 +61,26 @@ The system transforms a multi-hour manual process into a repeatable automated wo
 
 ## Note
 All data, identifiers, and system details have been anonymized. This project is a portfolio-safe representation of a real-world system.
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/jesseakim/data-extraction-automation.git
+
+2. Navigate to the project folder:
+   cd data-extraction-automation
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Run the script:
+   python main.py
+
+---
+
+## Requirements
+
+- Python 3.8+
+- Google Chrome / Microsoft Edge / Firefox installed
